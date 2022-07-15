@@ -1,2 +1,2 @@
 # Grocerry-Store
-A grocerry store website
+A grocerry store websiteThis prject done in group for the ITI course.
